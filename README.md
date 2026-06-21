@@ -20,11 +20,11 @@ Five models were benchmarked per task (Linear/Logistic Regression, SVM/SVR, Deci
 
 - `amazon_price_rating_models.ipynb` — full analysis: EDA, feature engineering, 10 trained models, evaluation, feature-importance plots.
 
-## Team
+## Done By:
 
-Ibtisam Kayani · Faseeh Ul Hassan · Abdullah Mehmood · Ahsan Ul Haq · Salman Jamal
-Machine Learning for Business Analytics, FAST-NUCES
+Ibtisam Kayani
+Course: Machine Learning for Business Analytics, FAST-NUCES
 
-## Stack
+## Stack Used
 
 Python · pandas · scikit-learn · matplotlib/seaborn
